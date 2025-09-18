@@ -16,7 +16,7 @@ export const data = [
       ans: 2,
     },
     {
-      question: "quam foi o campeão da champions de 1992?",
+      question: "quam foi o campeão da champions de 1991/92?",
       option1: "Barcelona",
       option2: "Steua Bucureste ",
       option3: "Estrela Vermelha",
