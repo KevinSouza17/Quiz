@@ -8,7 +8,7 @@ export const data = [
       ans: 3,
     },
     {
-      question: "qual o maior campeão da champions league?",
+      question: "Qual o maior campeão da champions league?",
       option1: "Hamburgo",
       option2: "Real madrid",
       option3: "Bayern München",
@@ -16,7 +16,7 @@ export const data = [
       ans: 2,
     },
     {
-      question: "quam foi o campeão da champions de 1991/92?",
+      question: "Qual foi o campeão da champions de 1991/92?",
       option1: "Barcelona",
       option2: "Steua Bucureste ",
       option3: "Estrela Vermelha",
@@ -24,7 +24,7 @@ export const data = [
       ans: 1,
     },
     {
-      question: "quem foi o artlheiro da champions da temporada 24/25?",
+      question: "Quem foi o artlheiro da champions da temporada 24/25?",
       option1: "Salah",
       option2: "Lamine Yamal",
       option3: "Raphinha",
@@ -40,7 +40,7 @@ export const data = [
       ans: 1,
     },
     {
-      question: "qual desses times tem mais champions?",
+      question: "Qual desses times tem mais champions?",
       option1: "Hamburgo",
       option2: "PSG",
       option3: "Nottingham Forest",
@@ -48,7 +48,7 @@ export const data = [
       ans: 3,
     },
     {
-      question: "Qual grupo cotém 4 dos jogadores que mais ganharam champions?",
+      question: "Qual grupo contém 4 dos jogadores que mais ganharam champions?",
       option1: "Ronaldo Fenomeno, Zlatan Ibrahimovic,Pavel Neved",
       option2: "Paolo Maldini,Luka Modric,Lionel Messi,Karl-Heinz Rummenigge",
       option3: "Dani Carvajal,Nacho Fernandes,Toni Kross,Paco Gento",
